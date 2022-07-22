@@ -1,5 +1,5 @@
 {
-    "name": "kofikwarteng/laravel-sagepay",
+    "name": "liquidline/laravel-sagepay",
     "description": "Laravel 5.x Sagepay Integration",
     "type": "library",
     "license": "MIT",
@@ -16,7 +16,7 @@
 },
     "autoload": {
         "psr-4": {
-            "Kofikwarteng\\LaravelSagepay\\": "src/"
+            "liquidline\\LaravelSagepay\\": "src/"
         }
     }
 }
